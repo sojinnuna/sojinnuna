@@ -4,7 +4,7 @@
 <h3>안녕하세요! 김소진입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
 </h3>
 
-## 📚 Tech Stack 📚
+### 📚 Tech Stack 📚
 
 ### ✨ Platforms & Languages ✨  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
